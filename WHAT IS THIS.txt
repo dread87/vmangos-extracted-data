@@ -1,0 +1,11 @@
+This folder contains DBC and map data required by the core.
+
+dbc - DBCs are mandatory and can be edited with MyDbcEditor.
+
+maps - Maps are mandatory. There's not much to say about them.
+
+vmaps - Vmaps are optional. Without them there can be no LoS checks, and you'll be able to cast through walls.
+
+mmaps - Mmaps are optional and you need 2GB of RAM to load them. Without them mobs will walk through walls.
+
+You should not touch things in this folder if you don't know what you're doing.
